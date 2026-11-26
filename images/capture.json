@@ -8,7 +8,7 @@
     "capture/flake.nix": "6da7d2f6c4ae8d889758aeeba12423c475f9978badf266df3142eaad9c3e4a65",
     "capture/runtime.nix": "886a0727fc9f09ceed77a9b62de0c412e4f87ac684ccab216e8b9a06425ab39b",
     "palette/theme.json": "8e383b647a5f6ddf41cac814102429b956c1e3289844f3c1ef8f38d462d3c683",
-    "port.json": "728ffde35175ca8638ac0d651f5ea474a60e5734a3790b3fcc576d6e29b51d5d",
+    "port.json": "8d66d371e9f89b9e3b0339d194c757eeb42b7ee2c3b2e55379bb842d1edf28fe",
     "scripts/capture.py": "1fefb763f00567b795b92388b29e3e8c3fd58bd0eefa9c2f31e43663cad7a308",
     "themes/living-code-frost.json": "adeaa99ba21cb96df2deea3ddbb04b871c098097aef507a8e197df4b3373b750",
     "themes/living-code-night.json": "921cff640ac07b03f9e4ab49ae8dc9ca09211b42ec279afb579123158e07a246",

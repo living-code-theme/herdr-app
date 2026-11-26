@@ -3,7 +3,7 @@
 
 <a href="https://living-code.dev"><img src="https://raw.githubusercontent.com/living-code-theme/core/main/assets/brand/favicon.svg" width="64" height="64" alt="Living Code [lc] mark"></a>
 
-# 🐏 Living Code for Herdr App
+# 🐑 Living Code for Herdr App
 
 **Calm slate. Living color.**<br>Native desktop themes for terminal ANSI colors, workspace chrome, selections and agent status.
 

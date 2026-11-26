@@ -3,7 +3,7 @@
   "schemaVersion": 1,
   "name": "Herdr App",
   "group": "AI & Agents",
-  "emoji": "🐏",
+  "emoji": "🐑",
   "slug": "herdr-app",
   "description": "Living Code for Herdr App: native desktop themes for terminal ANSI colors, workspace chrome, selections and agent status.",
   "homepage": "https://herdr.dev/",
