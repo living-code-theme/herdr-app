@@ -1,0 +1,42 @@
+{
+  "version": "0.1.11",
+  "source": "https://raw.githubusercontent.com/herdrdev/herdr-app/e12fd31866f33cb613922d0b33ea506e6f23ce3c/src/settings.rs",
+  "sha256": "7cfcf2a0f044bf527d2e6cc700c1867abb46bcb5c4edad145702812a5f3ce25f",
+  "fields": [
+    "background",
+    "foreground",
+    "selection",
+    "cursor",
+    "ansi",
+    "colors"
+  ],
+  "uiColors": [
+    "background",
+    "terminal_foreground",
+    "foreground",
+    "surface",
+    "canvas",
+    "chrome",
+    "popover",
+    "raised",
+    "hover",
+    "selected",
+    "border",
+    "input",
+    "muted",
+    "dim",
+    "accent",
+    "accent_foreground",
+    "solid",
+    "solid_foreground",
+    "ring",
+    "selection",
+    "cursor",
+    "working",
+    "blocked",
+    "done",
+    "idle",
+    "unknown"
+  ],
+  "ansiColors": 16
+}

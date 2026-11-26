@@ -1,0 +1,6 @@
+{
+  "schemaVersion": 1,
+  "scene": "Herdr App 0.1.11 with herdr-core 0.1.16, native JSON theme, two panes of real bat --theme=ansi source and Git diff/ANSI output in a disposable local Git fixture. Native 2x app zoom on a 2560x1600 Xvfb display with locked Mesa software Vulkan. No provider calls or existing sessions; fixture status is explicitly a local demo.",
+  "versionCommand": ["sh", "-c", "printf '%s / %s\\n' \"$(herdr-app --version)\" \"$(hc --version)\""],
+  "fixtures": ["capture/runtime.nix"]
+}

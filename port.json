@@ -1,0 +1,46 @@
+{
+  "$schema": "https://living-code.dev/port.schema.json",
+  "schemaVersion": 1,
+  "name": "Herdr App",
+  "group": "AI & Agents",
+  "emoji": "🐏",
+  "slug": "herdr-app",
+  "description": "Living Code for Herdr App: native desktop themes for terminal ANSI colors, workspace chrome, selections and agent status.",
+  "homepage": "https://herdr.dev/",
+  "quick": "Download a native JSON theme",
+  "aliases": ["herdr desktop", "herdr-app", "herdr-core", "coding agents"],
+  "files": [
+    "themes/living-code-night.json",
+    "themes/living-code-frost.json",
+    "themes/living-code-paper.json",
+    "themes/living-code-signal.json"
+  ],
+  "flavors": [
+    "night",
+    "frost",
+    "paper",
+    "signal"
+  ],
+  "images": [
+    {
+      "flavor": "night",
+      "path": "images/night.png",
+      "alt": "Herdr App running Living Code Night"
+    },
+    {
+      "flavor": "frost",
+      "path": "images/frost.png",
+      "alt": "Herdr App running Living Code Frost"
+    },
+    {
+      "flavor": "paper",
+      "path": "images/paper.png",
+      "alt": "Herdr App running Living Code Paper"
+    },
+    {
+      "flavor": "signal",
+      "path": "images/signal.png",
+      "alt": "Herdr App running Living Code Signal"
+    }
+  ]
+}
